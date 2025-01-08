@@ -7,3 +7,5 @@ U
 %tests/civilization-management.test.ts,3/5/352bfdcbd7c2daf98c28867a287729ff06e25245
 U
 %contracts/technology-advancement.clar,b/4/b466e72f6b2f17e8cebe4a450531f0a4ca876a39
+T
+$tests/technology-advancement.test.ts,8/5/8564762c0023e0f8b60bd722e78eabf152a395bb
