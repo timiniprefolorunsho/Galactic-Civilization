@@ -5,3 +5,5 @@ V
 &contracts/civilization-management.clar,8/2/821dd2debbae70eb0a6b5c06c53d461b4c25d56d
 U
 %tests/civilization-management.test.ts,3/5/352bfdcbd7c2daf98c28867a287729ff06e25245
+U
+%contracts/technology-advancement.clar,b/4/b466e72f6b2f17e8cebe4a450531f0a4ca876a39
